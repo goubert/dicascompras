@@ -1,0 +1,35 @@
+{
+  "nome": "Iphone 18",
+  "resumo": [
+    { "label": "Processador", "valor": "Intel® Core™ i5-1335U" },
+    { "label": "Memória RAM", "valor": "16GB" },
+    { "label": "Armazenamento", "valor": "1TB" },
+    { "label": "Tela", "valor": "Amoled 4k" },
+    { "label": "Placa gráfica dedicada", "valor": "GeForce RTX™ 5060 8GB" },
+    { "label": "Bateria", "valor": "Até 30 horas" }
+  ],
+  "descricao": [
+    { "titulo": "Saiba mais sobre os componentes", "texto": "Texto de apresentação do produto. Edite este arquivo (produto.json) para mudar o conteúdo da página." }
+  ],
+  "links": [
+    { "loja": "Mercado Livre", "preco": "R$ 3.569,00", "url": "https://www.mercadolivre.com.br/" }
+  ],
+  "especificacoes": [
+    { "grupo": "Processador", "titulo": "Intel® Core™ Ultra 7 356H", "itens": [
+      { "label": "Modelo da CPU", "valor": "Intel Core i5" },
+      { "label": "Velocidade da CPU", "valor": "1.3" },
+      { "label": "Velocidade máxima", "valor": "4,6 GHz" }
+    ]},
+    { "grupo": "Memória RAM", "titulo": "16GB (2x8GB)", "itens": [
+      { "label": "Frequência", "valor": "6000hz" },
+      { "label": "Expande até", "valor": "32GB" }
+    ]}
+  ],
+  "videos": [
+    { "id": "dQw4w9WgXcQ", "titulo": "Título do vídeo" }
+  ],
+  "componentes": [
+    { "titulo": "Memória RAM", "texto": "A memória RAM (Random Access Memory) armazena temporariamente os dados dos programas em uso." }
+  ],
+  "fotos": ["01.jpg"]
+}
