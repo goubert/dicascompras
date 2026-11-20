@@ -9,7 +9,7 @@
     { "label": "Bateria", "valor": "Até 30 horas" }
   ],
   "descricao": [
-    { "titulo": "Saiba mais sobre os componentes", "texto": "Texto de apresentação do produto. Edite este arquivo (produto.json) para mudar o conteúdo da página." }
+    { "titulo": "Saiba mais sobre os componentes", "texto": "O Galaxy Book6 Pro é extremamente fino, incrivelmente potente e intuitivo, oferecendo desempenho incomparável com uma tela sensível ao toque de 16 e 14 polegadas, gráficos vibrantes e ferramentas inteligentes Galaxy AI que vão elevar a sua produtividade. Equipado com o mais recente processador Intel® Core™ Ultra X7 e Intel® Core™ Ultra 5 (Série 3), ele executa tarefas exigentes com facilidade, enquanto nossa bateria com até 30 horas de duração mantém você ativo por mais de um dia. Conheça o notebook com o qual você pode contar." }
   ],
   "links": [
     { "loja": "Mercado Livre", "preco": "R$ 3.569,00", "url": "https://www.mercadolivre.com.br/" }
@@ -31,5 +31,5 @@
   "componentes": [
     { "titulo": "Memória RAM", "texto": "A memória RAM (Random Access Memory) armazena temporariamente os dados dos programas em uso." }
   ],
-  "fotos": ["01.jpg"]
+  "fotos": ["galaxy-pro.png"]
 }
